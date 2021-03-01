@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/del/static/css/main.f0c5241f.chunk.css",
+    "main.js": "/del/static/js/main.fe00bb67.chunk.js",
+    "main.js.map": "/del/static/js/main.fe00bb67.chunk.js.map",
+    "runtime-main.js": "/del/static/js/runtime-main.dc191a6d.js",
+    "runtime-main.js.map": "/del/static/js/runtime-main.dc191a6d.js.map",
+    "static/js/2.e7651a5a.chunk.js": "/del/static/js/2.e7651a5a.chunk.js",
+    "static/js/2.e7651a5a.chunk.js.map": "/del/static/js/2.e7651a5a.chunk.js.map",
+    "static/js/3.b77df0dc.chunk.js": "/del/static/js/3.b77df0dc.chunk.js",
+    "static/js/3.b77df0dc.chunk.js.map": "/del/static/js/3.b77df0dc.chunk.js.map",
+    "index.html": "/del/index.html",
+    "static/css/main.f0c5241f.chunk.css.map": "/del/static/css/main.f0c5241f.chunk.css.map",
+    "static/js/2.e7651a5a.chunk.js.LICENSE.txt": "/del/static/js/2.e7651a5a.chunk.js.LICENSE.txt",
+    "static/media/baluk.ef92272e.jpg": "/del/static/media/baluk.ef92272e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc191a6d.js",
+    "static/js/2.e7651a5a.chunk.js",
+    "static/css/main.f0c5241f.chunk.css",
+    "static/js/main.fe00bb67.chunk.js"
+  ]
+}
